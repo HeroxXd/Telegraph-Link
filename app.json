@@ -1,0 +1,24 @@
+{
+    "name": "Telegraph-Link",
+    "description": "Telegraph Uploader",
+    "logo": "",
+    "keywords": [
+        "telegram",
+        "telethon",
+        "telegram-bot",
+        "Herox"
+    ],
+    "repository": "https://github.com/HeroxXd/Telegraph-Link",
+    "success_url": "https://t.me/SecretHeaven_Chat",
+    "env": {
+        "BOT_TOKEN": {
+            "description": "Bot token, get it from @BotFather If any problem then contact @Herox_xd.",
+            "value": ""
+        }
+    },
+    "buildpacks": [
+        {
+            "url": "heroku/python"
+        }
+    ]
+}
