@@ -39,7 +39,7 @@ async def start_(event):
                     "MY FATHER", url="https://t.me/HEROX_XD"
                 ),
             ],
-            [Button.url("Support", url="https://t.me/SecretHeaven_Chat")],
+            [Button.url("Support", url="HX_ROBOT_SUPPORT")],
         ],
     )
 
