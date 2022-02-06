@@ -1,1 +1,1 @@
-Botz: python bot.py
+Botz: python Herox.py
